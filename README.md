@@ -31,7 +31,9 @@ git clone https://github.com/kghthor/Language_Translator.git
 
 ## Demo
 
-For a live demonstration of the language translator web application, you can visit the following link: <a href="https://kghthor.github.io/Language_Translator" target="_blank"> Language Translator Demo </a>.
+For a live demonstration of the language translator web application, you can visit the following link: [Language Translator Demo][1].
+
+[1]: https://kghthor.github.io/Language_Translator/
 
 
 ## Feedback and Contributions
