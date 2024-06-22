@@ -36,7 +36,7 @@ For a live demonstration of the language translator web application, you can vis
 
 
 
-## Feedback and Contributions
+## Feedback and Contributions :
 
 If you find any issues with the application or have suggestions for improvement, please feel free to create an issue or submit a pull request on the GitHub repository. Your feedback and contributions are highly appreciated!
 
