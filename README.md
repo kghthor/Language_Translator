@@ -14,7 +14,7 @@ This is a simple language translator web application built using pure HTML, CSS,
 - Minimalistic and lightweight, ensuring fast loading times and smooth performance.
 
 ## How to Use
-
+ 
 1. Clone the repository to your local machine:
 
 ```bash
