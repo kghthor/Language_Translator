@@ -13,7 +13,7 @@ function populateDropdown(dropdown, options) {
     dropdown.querySelector("ul").appendChild(li);
   });
 }
-
+ 
 populateDropdown(inputLanguageDropdown, languages);
 populateDropdown(outputLanguageDropdown, languages);
 
