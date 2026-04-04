@@ -26,7 +26,7 @@ git clone https://github.com/kghthor/Language_Translator.git
 3. Enter the text you want to translate in the input field.
 
 4. Select the source language and target language from the provided drop-down menus.
-
+ 
 5. Click the "Translate" button to get the translated text.
 
 ## Demo
